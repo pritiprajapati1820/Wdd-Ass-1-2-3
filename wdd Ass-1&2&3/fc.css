@@ -1,0 +1,42 @@
+
+.container{
+    width: 80%;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    background color: #f0f0f0;
+}
+.webdevlopment{
+    width: 30%;
+    height: 100px;
+    background-color:#af4c5e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+   .graphicdesign{
+    width: 30%;
+    height: 100px;
+    background-color:grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+.digitalmarketing{
+    width: 30%;
+    height: 100px;
+    background-color:palegreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+h2{
+    text-align: center;
+
+}

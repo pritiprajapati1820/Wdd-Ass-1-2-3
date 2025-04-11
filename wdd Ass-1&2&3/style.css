@@ -1,0 +1,24 @@
+
+```css
+h1{
+    color:red;
+}
+.title{
+    font-size:2em;
+}
+#intro{
+    font-style:italic;
+}
+.content{
+    color:red;
+}
+li.item{
+    list-style-type:square;
+}
+item special{
+    font-weight:bold;
+}
+ul li{
+    margin:5px;
+}
+```

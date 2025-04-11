@@ -1,0 +1,16 @@
+.box{
+    width:50%;
+    margin: 20px auto;
+    border: 5px solid black;
+    padding: 50px;
+    background-color: lightgray;
+    align-items: center;
+
+}
+h1{
+    text-align: center ;
+    font-style:italic ;
+    text-decoration: underline;
+    color: rgb(1, 11, 11);
+
+}

@@ -1,0 +1,25 @@
+
+
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.form-container{
+    border:2px solid#000;
+    padding: 70px;
+    border-radius:0;
+
+}
+h2{
+    
+    text-align: center;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+.input-text{
+    font-family: 'Gill Sans MT';
+    font-size: 16px;
+}

@@ -1,0 +1,37 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Registration Form</title>
+        <link rel="stylesheet" href="form.css">
+    </head>
+    <body>
+        <div class="form-container">
+            <h2> Registration Form</h2>
+        <form action="/submit" method ="post">
+           <lable for ="name"> Name:</lable><br>
+           <input type="text" id="name" name="name" required><br><br>
+           
+           <label> Gender:</lable><br>
+            <input type="radio"id="male" name="gender" value="male"required>
+            <lable for ="male">Male</lable><br>
+            <input type="radio"id="female" name="gender" value="female"required>
+            <lable for ="female">Female</lable><br><br>
+
+            <lable>Interests:</lable><br>
+            <input type="checkbox"id="reading"name="interest"value="reading">
+            <lable for ="reading">Reading</lable><br>
+            <input type="checkbox"id="music"name="interest"value="music">
+            <lable for ="music">Music</lable><br>
+            <input type="checkbox"id="sports"name="interest"value="sports">
+            <lable for ="sports">Sports</lable><br><br>
+            
+            <input type="submit"value="Submit">
+            <input type="reset"value="Reset">
+        </form>
+        </div>
+    </body>
+</html>
+
+            
